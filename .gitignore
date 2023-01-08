@@ -1,0 +1,6 @@
+/.env
+/node_modules
+/package-lock.json
+./internship_simplified_frontend/.env
+./internship_simplified_frontend/node_modules
+./internship_simplified_backend/node_modules
